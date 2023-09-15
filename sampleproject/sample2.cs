@@ -8,5 +8,7 @@ namespace sampleproject
 {
     internal class sample2
     {
+        ///branch2
+        ///branch 2 update
     }
 }
